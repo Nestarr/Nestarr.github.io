@@ -1,0 +1,54 @@
+body {
+    background-color: pink;
+    font-family: noto sans, sans-serif;
+    padding: 20px;
+}
+h1 {
+    text-align: center;
+    font-size: 25pt;
+    color: lavenderblush;
+}
+/* tabs */
+nav { 
+    width: 80%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    max-width: 1200px;
+    border-style: solid;
+    text-align: center;
+
+}
+
+a {
+    padding: 10pt;
+    font-size: 20pt;
+
+}
+/* content */
+.content {
+    width: 80%;
+    background-color: lavenderblush;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 1200px;
+    border-style: solid;
+    border-color: lavenderblush;
+}
+.introduction {
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+img {
+    display: block;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
