@@ -89,7 +89,6 @@ p {
     text-decoration: none;
 }
 #Momo, #Sigi {
-    display: flex;
     clip-path: circle(35%);
 
     
